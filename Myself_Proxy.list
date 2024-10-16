@@ -11,8 +11,6 @@ DOMAIN-SUFFIX,hanime1.me
 DOMAIN-SUFFIX,716dm.com
 DOMAIN-SUFFIX,赔钱.com
 DOMAIN-SUFFIX,1元机场.com
-DOMAIN-SUFFIX,ipaddress.my
-DOMAIN-SUFFIX,browserscan.net
 
 
 
@@ -23,8 +21,6 @@ DOMAIN-KEYWORD,monikadesign
 DOMAIN-KEYWORD,iwara
 DOMAIN-KEYWORD,hanime1
 DOMAIN-KEYWORD,hanime
-DOMAIN-KEYWORD,ipaddress
-DOMAIN-KEYWORD,browserscan
 
 # IP段匹配
 #IP-CIDR,219.146.1.66/32,no-resolve
