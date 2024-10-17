@@ -1,9 +1,12 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,ipaddress.my
 DOMAIN-SUFFIX,browserscan.net
-
+DOMAIN-SUFFIX,test-ipv6.com
+DOMAIN-SUFFIX,ipv6.test-ipv6.com
+DOMAIN-SUFFIX,ipv6-test.com
 
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,ipaddress
 DOMAIN-KEYWORD,browserscan
+DOMAIN-KEYWORD,ipv6-test
