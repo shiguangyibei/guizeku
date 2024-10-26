@@ -4,6 +4,9 @@ DOMAIN-SUFFIX,browserscan.net
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,ipv6.test-ipv6.com
 DOMAIN-SUFFIX,ipv6-test.com
+
+
+#域名匹配
 DOMAIN,ip.cn
 
 
