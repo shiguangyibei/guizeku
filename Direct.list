@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,mihoyo.com
 DOMAIN-SUFFIX,bh3.com
 DOMAIN-SUFFIX,bhsr.com
 DOMAIN-SUFFIX,hoyolab.com
+DOMAIN-SUFFIX,rousi.zip
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
