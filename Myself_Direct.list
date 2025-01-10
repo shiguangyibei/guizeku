@@ -1,9 +1,23 @@
-# 域名后缀匹配
+# 域名后缀匹配-ip相关
 DOMAIN-SUFFIX,ipaddress.my
 DOMAIN-SUFFIX,browserscan.net
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,ipv6.test-ipv6.com
 DOMAIN-SUFFIX,ipv6-test.com
+
+# 域名后缀匹配-自定义
+DOMAIN-SUFFIX,lanzov.com
+DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,vinikel.xyz
+DOMAIN-SUFFIX,5kfz.com
+DOMAIN-SUFFIX,mihoyo.com
+DOMAIN-SUFFIX,bh3.com
+DOMAIN-SUFFIX,bhsr.com
+DOMAIN-SUFFIX,hoyolab.com
+DOMAIN-SUFFIX,akspeedy.com
+DOMAIN-SUFFIX,rousi.zip
+DOMAIN-SUFFIX,hhanclub.top
+DOMAIN-SUFFIX,m-team.cc
 
 
 #域名匹配
