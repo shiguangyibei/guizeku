@@ -3,19 +3,6 @@
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
-DOMAIN-SUFFIX,lanzov.com
-DOMAIN-SUFFIX,hao123.com
-DOMAIN-SUFFIX,vinikel.xyz
-DOMAIN-SUFFIX,5kfz.com
-DOMAIN-SUFFIX,mihoyo.com
-DOMAIN-SUFFIX,bh3.com
-DOMAIN-SUFFIX,bhsr.com
-DOMAIN-SUFFIX,hoyolab.com
-DOMAIN-SUFFIX,rousi.zip
-DOMAIN-SUFFIX,hhanclub.top
-DOMAIN-SUFFIX,akspeedy.com
-DOMAIN-SUFFIX,m-team.cc
-
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
