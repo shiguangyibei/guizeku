@@ -1,12 +1,8 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
-# MyList
-# 域名后缀匹配
-DOMAIN-SUFFIX,u2.dmhy.org
-DOMAIN-SUFFIX,monikadesign.uk
-DOMAIN-SUFFIX,fsm.name
-DOMAIN-SUFFIX,iwara.tv
+# 域名后缀匹配-自定义
 DOMAIN-SUFFIX,hanime1.me
+DOMAIN-SUFFIX,iwara.tv
 DOMAIN-SUFFIX,716dm.com
 DOMAIN-SUFFIX,赔钱.com
 DOMAIN-SUFFIX,1元机场.com
@@ -15,8 +11,13 @@ DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,hysteria.network
 DOMAIN-SUFFIX,936dm.com
-DOMAIN-SUFFIX,hdtime.org
 DOMAIN-SUFFIX,zerotier.com
+
+# 域名后缀匹配-pt/bt站
+DOMAIN-SUFFIX,u2.dmhy.org
+DOMAIN-SUFFIX,monikadesign.uk
+DOMAIN-SUFFIX,fsm.name
+DOMAIN-SUFFIX,hdtime.org
 DOMAIN-SUFFIX,mikanani.me
 
 # 域名关键字匹配
