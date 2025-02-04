@@ -53,7 +53,7 @@ ruleset=🐟 漏网之鱼,[]FINAL
 
 custom_proxy_group=✈️ 代理节点`select`.*
 custom_proxy_group=🔗 全球直连`select`.*
-custom_proxy_group=🛫 Speedtest`select.*
+custom_proxy_group=🛫 Speedtest`select`.*
 custom_proxy_group=🐟 漏网之鱼`select`.*
 
 
