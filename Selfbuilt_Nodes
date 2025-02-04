@@ -51,10 +51,10 @@ ruleset=🐟 漏网之鱼,[]FINAL
 
 ;策略组定义
 
-custom_proxy_group=✈️ 代理节点`select`.*
-custom_proxy_group=🔗 全球直连`select`.*
-custom_proxy_group=🛫 Speedtest`select`.*
-custom_proxy_group=🐟 漏网之鱼`select`.*
+custom_proxy_group=✈️ 代理节点`select`[]DIRECT`.*
+custom_proxy_group=🔗 全球直连`select`[]DIRECT`.*
+custom_proxy_group=🛫 Speedtest`select`[]DIRECT`.*
+custom_proxy_group=🐟 漏网之鱼`select`[]DIRECT`.*
 
 
 
