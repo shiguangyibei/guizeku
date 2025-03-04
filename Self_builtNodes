@@ -1,9 +1,8 @@
 [custom]
 
 ;规则集定义
-ruleset=🎯 全球直连,https://raw.githubusercontent.com/shiguangyibei/guizeku/refs/heads/main/Myself_Direct.list
-ruleset=🔗 代理节点,https://raw.githubusercontent.com/shiguangyibei/guizeku/refs/heads/main/Myself_Proxy.list
-ruleset=🔗 代理节点,https://raw.githubusercontent.com/shiguangyibei/guizeku/refs/heads/main/ProxyLite.list
+ruleset=🔍 SelfDirect,https://raw.githubusercontent.com/shiguangyibei/guizeku/refs/heads/main/Myself_Direct.list
+ruleset=🎭 SelfProxy,https://raw.githubusercontent.com/shiguangyibei/guizeku/refs/heads/main/MySelf_Proxy.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/shiguangyibei/guizeku/refs/heads/main/Direct.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
@@ -37,11 +36,17 @@ ruleset=🎯 全球直连,[]GEOIP,CN,no-resolve
 ruleset=🐟 漏网之鱼,[]FINAL
 
 ;策略组定义
+custom_proxy_group=🔍 SelfDirect`select`[]DIRECT`[]🌎 自建节点`[]♻️ 自动选择`[]🛡️ 手动选择
+custom_proxy_group=🎭 SelfProxy`select`[]DIRECT`[]🌎 自建节点`[]♻️ 自动选择`[]🛡️ 手动选择
+custom_proxy_group=🔗 代理节点`select`[]DIRECT`[]🌎 自建节点`[]♻️ 自动选择`[]🛡️ 手动选择
+custom_proxy_group=🐟 漏网之鱼`select`[]DIRECT`[]🌎 自建节点`[]♻️ 自动选择`[]🛡️ 手动选择
+custom_proxy_group=🎯 全球直连`select`[]DIRECT`.*`[]🌎 自建节点`[]♻️ 自动选择`[]🛡️ 手动选择
+custom_proxy_group=🛫 Speedtest`select`[]DIRECT`.*`[]🌎 自建节点`[]♻️ 自动选择`[]🛡️ 手动选择
 
-custom_proxy_group=🔗 代理节点`select`[]DIRECT`.*
-custom_proxy_group=🎯 全球直连`select`[]DIRECT`.*
-custom_proxy_group=🛫 Speedtest`select`[]DIRECT`.*
-custom_proxy_group=🐟 漏网之鱼`select`[]DIRECT`.*
+
+custom_proxy_group=♻️ 自动选择`url-test`select`(?=.*)^((?!(2倍|2x|3倍|3x|5倍|5x|DIRECT)).)*$`https://www.google.com/generate_204`300,,200
+custom_proxy_group=🌎 自建节点`select`(?=.*(自建节点))
+custom_proxy_group=🛡️ 手动选择`select`.*
 
 
 
