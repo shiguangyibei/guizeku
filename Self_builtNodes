@@ -39,11 +39,12 @@ ruleset=🐟 漏网之鱼,[]FINAL
 custom_proxy_group=🔍 SelfDirect`select`[]DIRECT`[]🌎 自建节点`[]♻️ 自动选择`[]🛡️ 手动选择
 custom_proxy_group=🎭 SelfProxy`select`[]DIRECT`[]🌎 自建节点`[]♻️ 自动选择`[]🛡️ 手动选择
 custom_proxy_group=🔗 代理节点`select`[]DIRECT`[]🌎 自建节点`[]♻️ 自动选择`[]🛡️ 手动选择
+custom_proxy_group=🛫 Speedtest`select`[]DIRECT`[]🌎 自建节点`[]♻️ 自动选择`[]🛡️ 手动选择
+custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]🌎 自建节点`[]♻️ 自动选择`[]🛡️ 手动选择
 custom_proxy_group=🐟 漏网之鱼`select`[]DIRECT`[]🌎 自建节点`[]♻️ 自动选择`[]🛡️ 手动选择
-custom_proxy_group=🎯 全球直连`select`[]DIRECT`.*`[]🌎 自建节点`[]♻️ 自动选择`[]🛡️ 手动选择
-custom_proxy_group=🛫 Speedtest`select`[]DIRECT`.*`[]🌎 自建节点`[]♻️ 自动选择`[]🛡️ 手动选择
 
 
+;策略组定义_二级
 custom_proxy_group=♻️ 自动选择`url-test`select`(?=.*)^((?!(2倍|2x|3倍|3x|5倍|5x|DIRECT)).)*$`https://www.google.com/generate_204`300,,200
 custom_proxy_group=🌎 自建节点`select`(?=.*(自建节点))
 custom_proxy_group=🛡️ 手动选择`select`.*
