@@ -1,9 +1,8 @@
-# 直连补充列表(国内域名不解析时，防止走代理使用)
-
 # 域名后缀匹配-自定义
 DOMAIN-SUFFIX,hanime1.me
 DOMAIN-SUFFIX,iwara.tv
 DOMAIN-SUFFIX,716dm.com
+DOMAIN-SUFFIX,706dm.com
 DOMAIN-SUFFIX,赔钱.com
 DOMAIN-SUFFIX,1元机场.com
 DOMAIN-SUFFIX,docker.io
@@ -15,7 +14,9 @@ DOMAIN-SUFFIX,zerotier.com
 DOMAIN-SUFFIX,bangumi.moe
 DOMAIN-SUFFIX,wiki.movie-pilot.org
 DOMAIN-SUFFIX,llgjc1.com
-
+DOMAIN-SUFFIX,cshjc.top
+DOMAIN-SUFFIX,namesilo.com
+DOMAIN-SUFFIX,pthub.cc
 
 # 域名后缀匹配-pt/bt站
 DOMAIN-SUFFIX,u2.dmhy.org
@@ -24,6 +25,19 @@ DOMAIN-SUFFIX,fsm.name
 DOMAIN-SUFFIX,hdtime.org
 DOMAIN-SUFFIX,mikanani.me
 DOMAIN-SUFFIX,ilolicon.com
+DOMAIN-SUFFIX,icc2022.com
+DOMAIN-SUFFIX,kamept.com
+DOMAIN-SUFFIX,xingyunge.top
+DOMAIN-SUFFIX,cspt.top
+DOMAIN-SUFFIX,tmpt.top
+DOMAIN-SUFFIX,hspt.club
+DOMAIN-SUFFIX,ptchina.org
+DOMAIN-SUFFIX,0ff.cc
+DOMAIN-SUFFIX,1ptba.com
+DOMAIN-SUFFIX,raingfh.top
+DOMAIN-SUFFIX,ptzone.xyz
+DOMAIN-SUFFIX,discfan.net
+DOMAIN-SUFFIX,ubits.club
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,dmhy
