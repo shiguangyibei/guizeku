@@ -20,8 +20,11 @@ DOMAIN-SUFFIX,bhsr.com
 DOMAIN-SUFFIX,hoyolab.com
 DOMAIN-SUFFIX,akspeedy.com
 DOMAIN-SUFFIX,deepseek.com
-DOMAIN-SUFFIX,tracker.m-team.cc
 
+# 域名后缀匹配-Tracker地址
+DOMAIN-SUFFIX,tracker.m-team.cc
+DOMAIN-SUFFIX,tracker.keepfrds.com
+DOMAIN-SUFFIX,daydream.dmhy.best
 
 # 域名后缀匹配-pt站
 DOMAIN-SUFFIX,m-team.cc
