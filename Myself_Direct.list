@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,bhsr.com
 DOMAIN-SUFFIX,hoyolab.com
 DOMAIN-SUFFIX,akspeedy.com
 DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,tracker.m-team.cc
 
 
 # 域名后缀匹配-pt站
@@ -34,6 +35,7 @@ DOMAIN-SUFFIX,totheglory.im
 
 #域名匹配
 DOMAIN,ip.cn
+DOMAIN,tracker.m-team.cc
 
 
 # 域名关键字匹配
