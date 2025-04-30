@@ -21,6 +21,11 @@ DOMAIN-SUFFIX,javlibrary.com
 DOMAIN-SUFFIX,javbus.com
 DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,avbase.net
+DOMAIN-SUFFIX,vcb-s.com
+DOMAIN-SUFFIX,massgrave.dev
+DOMAIN-SUFFIX,appsfancy.eu.org
+DOMAIN-SUFFIX,dnschecker.org
+DOMAIN-SUFFIX,dog3.ssrdog10.com
 
 # 域名后缀匹配-pt/bt站
 DOMAIN-SUFFIX,u2.dmhy.org
