@@ -46,9 +46,6 @@ DOMAIN-SUFFIX,audiences.me
 # 域名关键字匹配
 DOMAIN-KEYWORD,dmhy
 DOMAIN-KEYWORD,monikadesign
-DOMAIN-KEYWORD,iwara
-DOMAIN-KEYWORD,hanime1
-DOMAIN-KEYWORD,hanime
 
 # IP段匹配
 #IP-CIDR,219.146.1.66/32,no-resolve
