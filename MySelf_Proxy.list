@@ -20,8 +20,9 @@ DOMAIN-SUFFIX,massgrave.dev
 DOMAIN-SUFFIX,appsfancy.eu.org
 DOMAIN-SUFFIX,dnschecker.org
 DOMAIN-SUFFIX,dog3.ssrdog10.com
+DOMAIN-SUFFIX,fosshub.com
 
-# 域名后缀匹配-pt/bt站
+# 域名后缀匹配-pt/bt站/pt论坛
 DOMAIN-SUFFIX,u2.dmhy.org
 DOMAIN-SUFFIX,monikadesign.uk
 DOMAIN-SUFFIX,fsm.name
@@ -42,6 +43,12 @@ DOMAIN-SUFFIX,ptzone.xyz
 DOMAIN-SUFFIX,discfan.net
 DOMAIN-SUFFIX,ubits.club
 DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,pting.club
+
+# 域名后缀匹配-9kg
+DOMAIN-SUFFIX,kemono.su
+
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,dmhy
