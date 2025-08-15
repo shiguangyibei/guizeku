@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,hoyolab.com
 DOMAIN-SUFFIX,akspeedy.com
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,80705202.xyz
+DOMAIN-SUFFIX,pt.btschool.club
 
 # 域名后缀匹配-Tracker地址
 DOMAIN-SUFFIX,tracker.m-team.cc
@@ -40,3 +41,4 @@ DOMAIN,tracker.m-team.cc
 DOMAIN-KEYWORD,ipaddress
 DOMAIN-KEYWORD,browserscan
 DOMAIN-KEYWORD,ipv6-test
+
