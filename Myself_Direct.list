@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,ipv6.test-ipv6.com
 DOMAIN-SUFFIX,ipv6-test.com
 DOMAIN-SUFFIX,ip138.com
+DOMAIN-SUFFIX,push.apple.com
 
 # 域名后缀匹配-自定义
 DOMAIN-SUFFIX,lanzov.com
@@ -41,4 +42,5 @@ DOMAIN,tracker.m-team.cc
 DOMAIN-KEYWORD,ipaddress
 DOMAIN-KEYWORD,browserscan
 DOMAIN-KEYWORD,ipv6-test
+
 
