@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,llg01.com
 DOMAIN-SUFFIX,uqidc.com
 DOMAIN-SUFFIX,mtb.vinikel.top
 DOMAIN-SUFFIX,ultrahd.net
+DOMAIN-SUFFIX,hosbbq.com
 
 
 # 域名后缀匹配-pt/bt站/pt论坛
@@ -73,4 +74,5 @@ DOMAIN-KEYWORD,monikadesign
 
 # IP段匹配
 #IP-CIDR,219.146.1.66/32,no-resolve
+
 
