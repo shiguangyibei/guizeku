@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,ubits.club
 DOMAIN-SUFFIX,az1.halomt.com
 DOMAIN-SUFFIX,klei.com
 DOMAIN-SUFFIX,klei.org
+DOMAIN-SUFFIX,ssrdog.com
 
 # 域名后缀匹配-pt/bt站/pt论坛
 DOMAIN-SUFFIX,u2.dmhy.org
@@ -78,6 +79,7 @@ DOMAIN-KEYWORD,monikadesign
 
 # IP段匹配
 #IP-CIDR,219.146.1.66/32,no-resolve
+
 
 
 
