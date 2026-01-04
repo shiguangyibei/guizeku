@@ -63,6 +63,7 @@ DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,ourbits.club
 DOMAIN-SUFFIX,keepfrds.com
 DOMAIN-SUFFIX,rousi.zip
+DOMAIN-SUFFIX,pterclub.net
 
 # 域名后缀匹配-9kg
 DOMAIN-SUFFIX,kemono.su
@@ -80,6 +81,7 @@ DOMAIN-KEYWORD,monikadesign
 
 # IP段匹配
 #IP-CIDR,219.146.1.66/32,no-resolve
+
 
 
 
