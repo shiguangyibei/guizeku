@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,klei.com
 DOMAIN-SUFFIX,klei.org
 DOMAIN-SUFFIX,ssrdog.com
 DOMAIN-SUFFIX,hembed.com
+DOMAIN-SUFFIX,apifdgbrgb.llgjc.xyz
 
 
 # 域名后缀匹配-pt/bt站/pt论坛
@@ -83,6 +84,7 @@ DOMAIN-KEYWORD,monikadesign
 
 # IP段匹配
 #IP-CIDR,219.146.1.66/32,no-resolve
+
 
 
 
