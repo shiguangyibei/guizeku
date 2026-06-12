@@ -6,6 +6,10 @@ DOMAIN-SUFFIX,ipv6.test-ipv6.com
 DOMAIN-SUFFIX,ipv6-test.com
 DOMAIN-SUFFIX,ip138.com
 
+# 常用流媒体网站CDN
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,zijieapi.com
+
 # 域名后缀匹配-自定义
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
