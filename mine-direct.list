@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,akspeedy.com
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,80705202.xyz
 DOMAIN-SUFFIX,pt.btschool.club
+DOMAIN-SUFFIX,pt.msftconnecttest.com
 
 # 域名后缀匹配-Tracker地址
 DOMAIN-SUFFIX,tracker.m-team.cc
@@ -37,17 +38,3 @@ DOMAIN-SUFFIX,daydream.dmhy.best
 # 域名后缀匹配-pt站
 DOMAIN-SUFFIX,hhanclub.top
 DOMAIN-SUFFIX,pterclub.net
-
-#域名匹配
-DOMAIN,ip.cn
-DOMAIN,tracker.m-team.cc
-
-
-# 域名关键字匹配
-DOMAIN-KEYWORD,ipaddress
-DOMAIN-KEYWORD,browserscan
-DOMAIN-KEYWORD,ipv6-test
-
-
-
-
