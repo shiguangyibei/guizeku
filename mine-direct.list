@@ -32,3 +32,6 @@ DOMAIN-SUFFIX,daydream.dmhy.best
 # 域名后缀匹配-pt站
 DOMAIN-SUFFIX,hhanclub.top
 DOMAIN-SUFFIX,pterclub.net
+
+DOMAIN-KEYWORD,gamelift-ping
+DOMAIN-SUFFIX,amazonaws.com
