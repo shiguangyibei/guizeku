@@ -33,11 +33,6 @@ DOMAIN-SUFFIX,daydream.dmhy.best
 DOMAIN-SUFFIX,hhanclub.top
 DOMAIN-SUFFIX,pterclub.net
 
+# 黎明杀机游戏相关
+DOMAIN-SUFFIX,bhvrdbd.com
 DOMAIN-KEYWORD,gamelift-ping
-
-
-IP-CIDR,153.101.41.117/32,DIRECT,no-resolve
-IP-CIDR,157.255.65.252/32,DIRECT,no-resolve
-IP-CIDR,211.91.78.105/32,DIRECT,no-resolve
-IP-CIDR,43.199.170.181/32,DIRECT,no-resolve
-IP-CIDR,47.108.178.213/32,DIRECT,no-resolve
